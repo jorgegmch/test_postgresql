@@ -14,7 +14,6 @@ El sistema de base de datos permite al concesionario:
 
 * **Motor de Base de Datos:** PostgreSQL
 * **Lenguaje:** SQL 
-* **Herramientas de Modelado:** Mermaid / Diagramado ER
 * **Entorno de Desarrollo sugerido:** DBeaver
 
 ## Instrucciones de Ejecución
